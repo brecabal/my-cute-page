@@ -1,0 +1,84 @@
+.link{
+	text-decoration: none;
+	color:#000;
+	margin-left: 200px;
+	padding: 20px;
+
+}
+
+.enlace{
+	margin: 20px 80px 10px;
+
+}
+
+.imagen-fondo{
+	background: url(../images/background.jpg);
+	background-size: 120%
+	width:cover;
+	height: 500px;
+
+}
+
+.titulo-imagen{
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.subtitulo-imagen{
+	color:#fff;
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.logo{
+	margin-left: 630px;
+	margin-top: 160px;
+
+}
+
+.titulos{
+	text-align: center;
+	margin: 30px 0;
+	color: #930984;
+
+}
+
+.imagen-texto{
+	float: left;
+	margin: 50px 10px;
+	border: 1px solid #000;
+}
+
+p{
+	margin-top: 78px;
+
+}
+
+.subtitulo-fotos{
+	text-align: center;
+	color:#930984; 
+
+}
+		
+.foto-gato{
+	border: 2px solid #930984;
+	border-radius: 180px;
+	padding:2px; 
+	width: 100%;
+	margin:20px auto;
+
+}
+
+footer{
+	background: #CFCBCB;
+
+}
+
+.imagen-footer{
+	padding:20px;
+	margin:0 50px;
+
+}
