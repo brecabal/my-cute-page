@@ -1,3 +1,9 @@
+body{
+	font-family: 'Oswald', sans-serif;
+
+}
+
+
 .link{
 	text-decoration: none;
 	color:#000;
@@ -39,6 +45,10 @@
 
 }
 
+.fondo-section{
+	background: url(../images/tile1.png);
+}
+
 .titulos{
 	text-align: center;
 	margin: 30px 0;
@@ -73,7 +83,8 @@ p{
 }
 
 footer{
-	background: #CFCBCB;
+	background-color: #CFCBCB;
+	background: url(../images/tile2.png);
 
 }
 
